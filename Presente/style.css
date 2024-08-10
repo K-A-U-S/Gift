@@ -1,0 +1,17 @@
+body
+{
+    background-color: rgb(8, 8, 8);
+    color: whitesmoke;
+    font-family: sans-serif;
+}
+canvas {
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+    background-image: url(F1_pista.jpg);
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
